@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32G0/STM32G0B1MBTx:STM32G0B1MBTx",
+  "name": "STM32G0B1MBTx",
+  "library": "MCU_ST_STM32G0",
+  "file": "MCU_ST_STM32G0.kicad_symdir/STM32G0B1MBTx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M0+ MCU, 128KB flash, 144KB RAM, 64 MHz, 1.7-3.6V, 74 GPIO, LQFP80",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32g0b1mb.pdf",
+  "keywords": "Arm Cortex-M0+ STM32G0 STM32G0x1",
+  "footprint": "Package_QFP:LQFP-80_12x12mm_P0.5mm",
+  "extends": "STM32G0B1M_B-C-E_Tx",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32g0@master/parts/STM32G0B1MBTx/",
+  "part_path": "parts/STM32G0B1MBTx",
+  "symbol_file": "parts/STM32G0B1MBTx/STM32G0B1MBTx.kicad_sym",
+  "source_library": "MCU_ST_STM32G0.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:40.674Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32G0/STM32G051F8Yx:STM32G051F8Yx",
+  "name": "STM32G051F8Yx",
+  "library": "MCU_ST_STM32G0",
+  "file": "MCU_ST_STM32G0.kicad_symdir/STM32G051F8Yx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M0+ MCU, 64KB flash, 18KB RAM, 64 MHz, 1.7-3.6V, 18 GPIO, WLCSP20",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32g051f8.pdf",
+  "keywords": "Arm Cortex-M0+ STM32G0 STM32G0x1",
+  "footprint": "Package_CSP:ST_WLCSP-20_1.94x2.4mm_Layout4x5_P0.4mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32g0@master/parts/STM32G051F8Yx/",
+  "part_path": "parts/STM32G051F8Yx",
+  "symbol_file": "parts/STM32G051F8Yx/STM32G051F8Yx.kicad_sym",
+  "source_library": "MCU_ST_STM32G0.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:40.273Z"
+}

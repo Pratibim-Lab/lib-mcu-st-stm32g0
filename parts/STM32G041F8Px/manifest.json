@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32G0/STM32G041F8Px:STM32G041F8Px",
+  "name": "STM32G041F8Px",
+  "library": "MCU_ST_STM32G0",
+  "file": "MCU_ST_STM32G0.kicad_symdir/STM32G041F8Px.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M0+ MCU, 64KB flash, 8KB RAM, 64 MHz, 1.7-3.6V, 18 GPIO, TSSOP20",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32g041f8.pdf",
+  "keywords": "Arm Cortex-M0+ STM32G0 STM32G0x1",
+  "footprint": "Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm",
+  "extends": "STM32G041F_6-8_Px",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32g0@master/parts/STM32G041F8Px/",
+  "part_path": "parts/STM32G041F8Px",
+  "symbol_file": "parts/STM32G041F8Px/STM32G041F8Px.kicad_sym",
+  "source_library": "MCU_ST_STM32G0.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:40.182Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32G0/STM32G0C1CCTxN:STM32G0C1CCTxN",
+  "name": "STM32G0C1CCTxN",
+  "library": "MCU_ST_STM32G0",
+  "file": "MCU_ST_STM32G0.kicad_symdir/STM32G0C1CCTxN.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M0+ MCU, 256KB flash, 144KB RAM, 64 MHz, 1.7-3.6V, 42 GPIO, LQFP48",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32g0c1cc.pdf",
+  "keywords": "Arm Cortex-M0+ STM32G0 STM32G0x1",
+  "footprint": "Package_QFP:LQFP-48_7x7mm_P0.5mm",
+  "extends": "STM32G0C1C_C-E_TxN",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32g0@master/parts/STM32G0C1CCTxN/",
+  "part_path": "parts/STM32G0C1CCTxN",
+  "symbol_file": "parts/STM32G0C1CCTxN/STM32G0C1CCTxN.kicad_sym",
+  "source_library": "MCU_ST_STM32G0.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:40.761Z"
+}

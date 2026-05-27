@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32G0/STM32G061G8Ux:STM32G061G8Ux",
+  "name": "STM32G061G8Ux",
+  "library": "MCU_ST_STM32G0",
+  "file": "MCU_ST_STM32G0.kicad_symdir/STM32G061G8Ux.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M0+ MCU, 64KB flash, 18KB RAM, 64 MHz, 1.7-3.6V, 26 GPIO, UFQFPN28",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32g061g8.pdf",
+  "keywords": "Arm Cortex-M0+ STM32G0 STM32G0x1",
+  "footprint": "Package_DFN_QFN:QFN-28_4x4mm_P0.5mm",
+  "extends": "STM32G061G_6-8_Ux",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32g0@master/parts/STM32G061G8Ux/",
+  "part_path": "parts/STM32G061G8Ux",
+  "symbol_file": "parts/STM32G061G8Ux/STM32G061G8Ux.kicad_sym",
+  "source_library": "MCU_ST_STM32G0.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:40.439Z"
+}

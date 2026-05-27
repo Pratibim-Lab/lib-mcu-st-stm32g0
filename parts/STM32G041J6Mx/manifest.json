@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32G0/STM32G041J6Mx:STM32G041J6Mx",
+  "name": "STM32G041J6Mx",
+  "library": "MCU_ST_STM32G0",
+  "file": "MCU_ST_STM32G0.kicad_symdir/STM32G041J6Mx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M0+ MCU, 32KB flash, 8KB RAM, 64 MHz, 1.7-3.6V, 6 GPIO, SO8N",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32g041j6.pdf",
+  "keywords": "Arm Cortex-M0+ STM32G0 STM32G0x1",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32g0@master/parts/STM32G041J6Mx/",
+  "part_path": "parts/STM32G041J6Mx",
+  "symbol_file": "parts/STM32G041J6Mx/STM32G041J6Mx.kicad_sym",
+  "source_library": "MCU_ST_STM32G0.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:40.193Z"
+}

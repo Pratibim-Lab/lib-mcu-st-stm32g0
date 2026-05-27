@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32G0/STM32G0B1KBUxN:STM32G0B1KBUxN",
+  "name": "STM32G0B1KBUxN",
+  "library": "MCU_ST_STM32G0",
+  "file": "MCU_ST_STM32G0.kicad_symdir/STM32G0B1KBUxN.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M0+ MCU, 128KB flash, 144KB RAM, 64 MHz, 1.7-3.6V, 29 GPIO, UFQFPN32",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32g0b1kb.pdf",
+  "keywords": "Arm Cortex-M0+ STM32G0 STM32G0x1",
+  "footprint": "Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm",
+  "extends": "STM32G0B1K_B-C-E_UxN",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32g0@master/parts/STM32G0B1KBUxN/",
+  "part_path": "parts/STM32G0B1KBUxN",
+  "symbol_file": "parts/STM32G0B1KBUxN/STM32G0B1KBUxN.kicad_sym",
+  "source_library": "MCU_ST_STM32G0.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:40.653Z"
+}
